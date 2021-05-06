@@ -23,7 +23,7 @@
 - 💬 Ask me about ... **iOS Development and Android Development** 
 
 - 😄 Employement ... **Currently not Open for job opportunities**
-- ⚡ Fun fact ... **Cartoon**❤
+- ⚡ Fun fact ... **Learning**❤
 - 📫 How to reach me **<a href="mailto:miglaniritik20@gmail.com">miglaniritik20@gmail.com</a>**
 - ⚡ Intresting fact: ... The Best is yet to come..!
 
