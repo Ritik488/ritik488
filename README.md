@@ -16,6 +16,7 @@
 
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
+- 😎 FTE at **Microsoft** <img src="https://image.flaticon.com/icons/png/512/732/732221.png" width="30px">
 - 😎 Intern at **Microsoft** <img src="https://image.flaticon.com/icons/png/512/732/732221.png" width="30px">
 - 😍 Ex-Intern at **Shipsy** <img src="https://d1myhw8pp24x4f.cloudfront.net/software_logo/1616651574_shipsy_new_logo_mid.png" width="30px">
 - 🔭 I’m currently working on **Flutter**
